@@ -1,6 +1,5 @@
 ### Hi! I am Mikal
-I commit the equivalent to war-crimes, just in code.
-
+I basically commit war-crimes, just in code. Which is why my repos are private.
 - 🌱 I’m currently learning Python, Java, C#, Haskell
 - 📫 How to reach me: mikal-dr@hotmail.com
 
