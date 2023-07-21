@@ -1,5 +1,5 @@
 ### Hi! I am Mikal
-I basically commit war-crimes, just in code. Which is why my repos are private.
+Good thing The Geneva convention does not contain anything about code convetions. I commit war-crimes in the form of code, which is why my repos are private.
 - 🌱 I’m currently learning Python, Java, C#, Haskell
 - 📫 How to reach me: mikal-dr@hotmail.com
 
