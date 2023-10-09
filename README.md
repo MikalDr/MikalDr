@@ -1,6 +1,6 @@
 ### Hi! I am Mikal
 Good thing The Geneva convention does not contain anything about code conventions. I commit war-crimes in the form of code, which is why my repos are private.
-- 🌱 I’m currently learning Python, Java, C#, Haskell
+- 🌱 I’m currently learning Python, Java, C#, Haskell, Rust
 - 📫 How to reach me: mikal-dr@hotmail.com
 
 <!--
